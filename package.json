@@ -1,0 +1,17 @@
+{
+  "name": "finite",
+  "version": "1.0.0",
+  "description": "This is a simple To-Do Application for marking daily tasks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yvmatts",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  }
+}
